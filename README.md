@@ -3,7 +3,8 @@
 
 This is a paragraph
 
--This
--Is
--A
--List
+- This
+- Is
+- A
+- List
+
